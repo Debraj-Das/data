@@ -1,0 +1,8 @@
+.venv
+.vscode
+hidden
+
+# common files
+*.pyc
+*.csv
+*.txt
