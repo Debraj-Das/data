@@ -1,6 +1,7 @@
 .venv
 .vscode
-hidden
+complete
+working
 
 # common files
 *.pyc
